@@ -1,0 +1,8 @@
+D:\Đại Học\Năm 2\Học Kỳ 3\Lap Trinh WEB 2\Bai Tap\2\Api Tutorial 2\Api Tutorial 2\obj\Debug\net8.0\Api Tutorial 2.csproj.AssemblyReference.cache
+D:\Đại Học\Năm 2\Học Kỳ 3\Lap Trinh WEB 2\Bai Tap\2\Api Tutorial 2\Api Tutorial 2\obj\Debug\net8.0\Api Tutorial 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đại Học\Năm 2\Học Kỳ 3\Lap Trinh WEB 2\Bai Tap\2\Api Tutorial 2\Api Tutorial 2\obj\Debug\net8.0\Api Tutorial 2.AssemblyInfoInputs.cache
+D:\Đại Học\Năm 2\Học Kỳ 3\Lap Trinh WEB 2\Bai Tap\2\Api Tutorial 2\Api Tutorial 2\obj\Debug\net8.0\Api Tutorial 2.AssemblyInfo.cs
+D:\Đại Học\Năm 2\Học Kỳ 3\Lap Trinh WEB 2\Bai Tap\2\Api Tutorial 2\Api Tutorial 2\obj\Debug\net8.0\Api Tutorial 2.csproj.CoreCompileInputs.cache
+D:\Đại Học\Năm 2\Học Kỳ 3\Lap Trinh WEB 2\Bai Tap\2\Api Tutorial 2\Api Tutorial 2\obj\Debug\net8.0\Api Tutorial 2.MvcApplicationPartsAssemblyInfo.cs
+D:\Đại Học\Năm 2\Học Kỳ 3\Lap Trinh WEB 2\Bai Tap\2\Api Tutorial 2\Api Tutorial 2\obj\Debug\net8.0\Api Tutorial 2.MvcApplicationPartsAssemblyInfo.cache
+D:\Đại Học\Năm 2\Học Kỳ 3\Lap Trinh WEB 2\Bai Tap\2\Api Tutorial 2\Api Tutorial 2\obj\Debug\net8.0\Api Tutorial 2.sourcelink.json
